@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => 'ပေးပို့သောအချက်အလက်များ မှားယွင်းနေပါသည်။',
+    'throttle' => 'Login ဝင်ရန်ကြိုးစားသည့် အကြိမ်ရေများလွန်းသောကြောင့် အကောင့်ကို ယာယီ ဆိုင်းငံ့ထားပါသည်။ :seconds စက္ကန့်ကြာပြီးမှ ပြန်လည်ကြိုးစားကြည့်ပါ။',
 
 ];

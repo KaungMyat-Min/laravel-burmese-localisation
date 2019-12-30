@@ -13,9 +13,9 @@ return [
     |
     */
 
-    'reset' => 'Your password has been reset!',
-    'sent' => 'We have e-mailed your password reset link!',
-    'token' => 'This password reset token is invalid.',
-    'user' => "We can't find a user with that e-mail address.",
+    'reset' => 'Password ကိုပြောင်းပြီးပါပြီ!',
+    'sent' => 'Password ပြောင်းရန် link ကို သင်၏ email သို့ ပို့ထားပါသည်!',
+    'token' => 'Token မှားနေပါသည်။',
+    'user' => "ဤ email အသုံးပြု၍ မှတ်ပုံတင်ထားသောသူ မရှိသေးပါ။",
 
 ];
